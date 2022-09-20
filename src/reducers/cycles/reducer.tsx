@@ -1,4 +1,3 @@
-import id from 'date-fns/esm/locale/id/index.js'
 import produce from 'immer'
 
 export interface CycleProps {
